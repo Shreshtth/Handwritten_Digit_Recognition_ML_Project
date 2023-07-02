@@ -1,5 +1,5 @@
 # Handwritten_Digit_Recognition_ML_Project
-I made a machine learning project that can detect any digit (0-9), using a 28*28 pixel image. The model is using Tensorflow, Keras, Opencv(CV2) and Matplotlib. This is a pretty good model as after multiple rruns, the accuracy has been nearly ~(97%).
+I made a machine learning project that can detect any digit (0-9), using a 28*28 pixel image. The model is using Tensorflow, Keras, Opencv(CV2) and Matplotlib. This is a pretty good model as after multiple runs, the accuracy has been nearly ~(97%).
 
 # Data Set used-
 MNIST dataset present is Keras Lib, consisting almost 60000 training exmaples and 10000 testing examples.
